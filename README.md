@@ -9,3 +9,5 @@ Please start by modelling an individual card and work towards playing a game fro
 At this stage, I am most interested in understanding your ability to reason around this data/logic problem. Good looking UI is less important.
 
 It is not expected that you will finish this challenge. Please spend no longer than one hour on this challenge.
+
+Please fork this repo and commit the code to the fork.
